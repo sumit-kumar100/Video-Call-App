@@ -1,5 +1,17 @@
 # Video-Call-App ( React Native + Django + Voximplant) 
 
+<div style="display:'flex'; justify-content: 'space-between';">
+  <img src="pandacall-frontend/assets/images/image-1.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/images/image-2.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/images/image-3.png" width="250" height="450">
+ </div>
+
+<div style="display:'flex'; justify-content: 'space-between';">
+  <img src="pandacall-frontend/assets/images/image-4.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/images/image-5.png" width="250" height="450">
+  <img src="pandalcall-frontend/assets/images/image-6.png" width="250" height="450">
+ </div>
+
 # Changes you have to made
 
 1. In Backend , there is no change simple host your backend server i.e, pythonanywhere.com etc..

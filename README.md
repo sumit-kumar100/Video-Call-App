@@ -1,15 +1,15 @@
 # Video-Call-App ( React Native + Django + Voximplant) 
 
 <div style="display:'flex'; justify-content: 'space-between';">
-  <img src="pandacall-frontend/assets/images/image-1.png" width="250" height="450">
-  <img src="pandacall-frontend/assets/images/image-2.png" width="250" height="450">
-  <img src="pandacall-frontend/assets/images/image-3.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/image-1.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/image-2.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/image-3.png" width="250" height="450">
  </div>
 
 <div style="display:'flex'; justify-content: 'space-between';">
-  <img src="pandacall-frontend/assets/images/image-4.png" width="250" height="450">
-  <img src="pandacall-frontend/assets/images/image-5.png" width="250" height="450">
-  <img src="pandalcall-frontend/assets/images/image-6.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/image-4.png" width="250" height="450">
+  <img src="pandacall-frontend/assets/image-5.png" width="250" height="450">
+  <img src="pandalcall-frontend/assets/image-6.png" width="250" height="450">
  </div>
 
 # Changes you have to made

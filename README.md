@@ -24,7 +24,7 @@ Follow these steps to set up and run the app:
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/video-call-app.git
+    https://github.com/sumit-singh1196/Video-Call-App.git
 
 2. Navigate to the project directory.
     ```bash

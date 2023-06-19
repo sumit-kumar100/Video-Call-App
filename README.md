@@ -50,7 +50,7 @@ Configuration
 - Obtain your Voximplant credentials, including the application ID and API keys. Configure Voximplant with the necessary video call settings and permissions.
 - Update the backend server URL in the React Native app to point to your hosted backend. This can be done by updating the API_URL in the Constants.js file.
 
-Screenshots
+## Screenshots
 Here are a few screenshots of the Video Call App:
 
 <div style="display:'flex'; justify-content: 'space-between';">
@@ -65,10 +65,10 @@ Here are a few screenshots of the Video Call App:
   <img src="pandacall-frontend/assets/image-6.png" width="240" height="450">
 </div>
 
-Contributing
+## Contributing
 - Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request to this repository.
 
-License
+## License
 - This project is licensed under the MIT License.
 
 - Make sure to place the sample images (app_screenshot.png, login_screen.png, contact_list.png, video_call.png) in a directory called `images` in the same location as the README.md file. Adjust the image filenames and paths accordingly if needed.

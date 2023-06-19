@@ -2,8 +2,6 @@
 
 This is a video calling application built using React Native, Django, and Voximplant. It provides all the essential features of a video calling app, including user login, signup, and contact list management.
 
-![Video Call App](/images/app_screenshot.png)
-
 ## Features
 
 - User authentication: Users can create an account and log in securely.
@@ -71,6 +69,6 @@ Contributing
 - Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request to this repository.
 
 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 - Make sure to place the sample images (app_screenshot.png, login_screen.png, contact_list.png, video_call.png) in a directory called `images` in the same location as the README.md file. Adjust the image filenames and paths accordingly if needed.

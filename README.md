@@ -72,3 +72,4 @@ Here are a few screenshots of the Video Call App:
 - This project is licensed under the MIT License.
 
 - Make sure to place the sample images (app_screenshot.png, login_screen.png, contact_list.png, video_call.png) in a directory called `images` in the same location as the README.md file. Adjust the image filenames and paths accordingly if needed.
+
